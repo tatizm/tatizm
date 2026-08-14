@@ -28,7 +28,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Taha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tatizm&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://img.shields.io/github/followers/tatizm?label=GitHub%20Followers&style=for-the-badge&color=1BA0D7)
+
 
 
 ---
