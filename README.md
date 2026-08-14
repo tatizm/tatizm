@@ -30,7 +30,9 @@
 ### 📊 GitHub Stats
 ![Taha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tatizm&show_icons=true&theme=tokyonight)
 
+
 ---
 
 ### 📫 Connect with Me
-- 📧 **Email:** [anarakytaha0@gmail.com]
+- 📧 **Email:** anarakytaha0@gmail.com
+
