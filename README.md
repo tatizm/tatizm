@@ -29,8 +29,6 @@
 
 ### 📊 GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=tatizm&color=1BA0D7&style=for-the-badge&label=PROFILE+VIEWS)
-![Repositories](https://img.shields.io/github/repositories/0/tatizm?label=Repositories&style=for-the-badge&color=00599C)
-
 
 
 
