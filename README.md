@@ -28,10 +28,5 @@
 
 ---
 
-### 📊 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=tatizm&color=1BA0D7&style=for-the-badge&label=PROFILE+VIEWS)
-
----
-
 ### 📫 Connect with Me
 - 📧 **Email:** anarakytaha0@gmail.com
